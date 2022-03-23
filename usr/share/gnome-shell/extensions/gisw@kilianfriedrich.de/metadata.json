@@ -1,0 +1,10 @@
+{
+	"name": "GISW",
+	"description": "Gnome extension for ISW (GISW)",
+	"shell-version": [
+		"3.36"
+	],
+	"url": "https://www.github.com/kilianfriedrich/isw",
+	"uuid": "gisw@kilianfriedrich.de",
+	"version": 1.0
+}
